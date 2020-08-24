@@ -1,0 +1,37 @@
+body{
+display: flex;
+background: white;
+}
+.contenedor{
+    border: 1px solid #ccc;
+    margin: 0 auto;
+    width: 75%;
+    background: #fff;
+    padding: 10px;
+    font: 12px arial;
+
+}
+.principal{
+    background:black;
+    padding: 10px;
+    font: 12px arial;
+}
+.header{
+    display: flex;
+    font: 12px arial;
+    color: white;
+}
+.nombre{
+    margin-left: 40px;
+    width: 100%;
+    font: 12px arial;
+}
+.titulo{
+    border: 0px solid black;
+    font: 18px arial;
+    color: black;
+}
+footer{
+    color: black;
+    font: 12px arial;
+}
